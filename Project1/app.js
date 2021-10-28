@@ -1,0 +1,10 @@
+//var number = prompt('สุ่มเลขที่ให้มา')
+//console.log(number)
+//console.log(Math.floor(Math.random()*100))
+//document.getElementById('result').innerHTML = Math.floor(Math.random()*100)
+
+console.log(1 == 1)
+console.log(5 == 6)
+console.log('5' == 5)
+console.log('5' === 5)
+console.log('f' != 5)
